@@ -5,6 +5,7 @@ channels:
 dependencies:
   - ipycanvas
   - numpy
+  - matplotlib
   - pandas
   - scipy
-  - matplotlib
+  - openalea.deploy
